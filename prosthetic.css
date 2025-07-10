@@ -41,14 +41,14 @@ body {
 }
 
 .header {
-    background-image: url("/images/im21.png");
+    background-image: url("images/im21.png");
     background-repeat: no-repeat;
     background-position: left 60px;
     background-size: auto;
 }
 
 .main {
-    background-image: url("/images/Group\ 1000005900.png");
+    background-image: url("images/Group\ 1000005900.png");
     background-repeat: no-repeat;
     background-position: center 60px;
     background-size: auto;

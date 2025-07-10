@@ -34,7 +34,7 @@ body {
 
 .header {
   background-color: #E5E2F7;
-  background-image: url("/images/4tb4tb\ 1.png");
+  background-image: url("images/4tb4tb\ 1.png");
   background-repeat: no-repeat;
   background-position: left center;
   background-size: auto;
@@ -137,5 +137,11 @@ body {
 }
 
 .width {
-  min-width: 510px;
+  min-width: 600px;
+}
+
+@media (max-width: 600px) {
+.width {
+  min-width: 300px;
+}
 }
