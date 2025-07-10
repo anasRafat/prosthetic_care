@@ -1,0 +1,64 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Almarai;
+}
+
+.f-16 {
+    font-size: 16px;
+}
+
+.f-24 {
+    font-size: 24px;
+}
+
+.f-32 {
+    font-size: 32px;
+}
+
+.f-48 {
+    font-size: 48px;
+}
+
+.c-p {
+    color: #897AE3;
+}
+
+.bg-p {
+    background-color: #897AE3;
+}
+
+.s-bg {
+    background-color: #E5E2F7;
+}
+
+.m-bg {
+    background-color: #101840;
+}
+
+.c-s {
+    color: #6D738F;
+}
+
+.header {
+    background-image: url("/images/im21.png");
+    background-repeat: no-repeat;
+    background-position: left 60px;
+    background-size: auto;
+}
+
+.main {
+    background-image: url("/images/Group\ 1000005900.png");
+    background-repeat: no-repeat;
+    background-position: center 60px;
+    background-size: auto;
+}
+
+.apper {
+    background: #6D738F;
+    opacity: 0.7;
+}
+
+.footer {
+    background-color: #101840;
+}

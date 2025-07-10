@@ -1,0 +1,141 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Almarai;
+}
+
+.f-16 {
+  font-size: 16px;
+}
+
+.f-24 {
+  font-size: 24px;
+}
+
+.f-32 {
+  font-size: 32px;
+}
+
+.f-48 {
+  font-size: 48px;
+}
+
+.c-p {
+  color: #897AE3;
+}
+
+.bg-p {
+  background-color: #897AE3;
+}
+
+.c-s {
+  color: #6D738F;
+}
+
+.header {
+  background-color: #E5E2F7;
+  background-image: url("/images/4tb4tb\ 1.png");
+  background-repeat: no-repeat;
+  background-position: left center;
+  background-size: auto;
+
+}
+
+.login-btn {
+  background-color: #897AE3;
+  color: white;
+  border: none;
+}
+
+.logo {
+  width: 150px;
+  height: 60px;
+}
+
+.nav-link {
+  color: #6D738F;
+  font-size: 18px;
+}
+
+.main {
+  font-size: 48px;
+}
+
+.main-dic {
+  font-size: 24px;
+  color: #6D738F;
+}
+
+.btn-1 {
+  background-color: #897AE3;
+  color: white;
+  border: none;
+}
+
+.btn-2 {
+  color: #897AE3;
+  background-color: white;
+  border: none;
+}
+
+.mt-6 {
+  margin-top: 88px;
+}
+
+.img-bg {
+  position: absolute;
+  left: 0px;
+  z-index: 0;
+}
+
+.plus {
+  z-index: 9;
+}
+
+.plus-text {
+  color: #897AE3;
+  background-color: white;
+}
+
+.div-plus {
+  background-color: #897AE3;
+}
+
+.card {
+  height: 260px;
+}
+
+.section-bg {
+  background-color: #E5E2F7;
+}
+
+.shop {
+  height: 55px;
+}
+
+.progress {
+  height: 8px;
+  background-color: #eee;
+}
+
+.progress-bar {
+  background-color: #897AE3;
+}
+
+.foot {
+  position: absolute;
+  right: 0;
+}
+
+.left-img {
+  position: absolute;
+  left: 0px;
+}
+
+.footer {
+  background-color: #101840;
+}
+
+.width {
+  min-width: 510px;
+}
