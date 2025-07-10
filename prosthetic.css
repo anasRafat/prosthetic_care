@@ -63,13 +63,13 @@ body {
     background-color: #101840;
 }
 
-@media (max-width: 1200px) {
-.img{
-    width: 600px;
-}
-}
-@media (max-width: 600px) {
-.img{
-    width: 300px;
-}
+@media (max-width: 1380px) {
+    .header {
+        background-image: none;
+    }
+
+    .main {
+        background-image: none;
+    }
+
 }

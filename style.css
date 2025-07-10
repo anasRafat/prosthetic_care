@@ -139,9 +139,21 @@ body {
 .width {
   min-width: 600px;
 }
+.hide-bg{
+  display: none;
+}
 
 @media (max-width: 600px) {
 .width {
   min-width: 300px;
+}
+}
+
+@media (max-width: 1000px) {
+.header {
+  background-image:none;
+}
+.hide-bg{
+  display: inline;
 }
 }
